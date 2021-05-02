@@ -19,7 +19,7 @@ int main()
             max = len;
             copy(longest, line);
 
-            /* if we here, we have a new longest line, so if I correctly understood, I need to print
+            /* if we are here, we have a new longest line, so if I correctly understood, I need to print
             its lenght and the characteres until reach len */
             printf("%d - ", len); 
             for (i = 0; i < len; i++)

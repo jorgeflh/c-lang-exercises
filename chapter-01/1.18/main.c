@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-#define MAXLINE 1000    // maximum input line lenght
+#define MAXLINE 1000    // maximum input line length
 
 int my_getline(char [], int);
 void my_trim(char [], int);
